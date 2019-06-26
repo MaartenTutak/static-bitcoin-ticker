@@ -1,0 +1,16 @@
+{
+  "name": "bitcointicker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maarten_tutak@hotmail.com",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@11ty/eleventy": "^0.8.3",
+    "node-fetch": "^2.6.0"
+  }
+}
